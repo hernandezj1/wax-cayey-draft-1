@@ -10,11 +10,19 @@ layout: default
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
 
-    {% if page.manifest.size > 0 %}
-      {% include osd_iiif_image_viewer.html manifest=page.manifest %}
-    {% elsif page.full.size > 0 %}
-      {% include simple_image_viewer.html full_image=page.full %}
+    {% if page.object_type == "audio" %}
+      {% include audio_embed.html audio=page.audio_url %}
+    
+    {% elsif page.object_type == "photo" %}
+      
+      {% if page.manifest.size > 0 %}
+        {% include osd_iiif_image_viewer.html manifest=page.manifest %}
+      {% elsif page.full.size > 0 %}
+        {% include simple_image_viewer.html full_image=page.full %}
+      {% endif %}
+    
     {% endif %}
+    
     
     <span class='pagination-link' id='nextlink'></span>
   </div>

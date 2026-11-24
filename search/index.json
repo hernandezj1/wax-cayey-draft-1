@@ -11,5 +11,15 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
     "permalink": "/pr-collection/obj1",
     "lunr_id": 0
+  },
+  {
+    "pid": "obj2",
+    "label": "Entrevista con Anabel",
+    "location": "Loiza",
+    "object_type": "audio",
+    "collection": "pr-collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/pr-collection/obj2",
+    "lunr_id": 1
   }
 ]

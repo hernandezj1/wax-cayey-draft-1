@@ -11,4 +11,7 @@ permalink: /collection/
 ## By Object Type
 
 ### Photographs
-{% include collection_gallery.html facet_by='object_type' only='photos' collection='pr-collection' %}
+{% include collection_gallery.html facet_by='object_type' only='photo' collection='pr-collection' %}
+
+### Audio-Only Interviews
+{% include collection_gallery.html facet_by='object_type' only='audio' collection='pr-collection' %}
