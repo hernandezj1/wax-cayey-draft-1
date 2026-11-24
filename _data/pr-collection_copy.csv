@@ -1,3 +1,4 @@
-pid,label,location,object_type,order,audio_url
-obj1,Ismael Leon,Puerto Rico,photo,00,none
-obj2,Entrevista con Anabel,Loiza,audio,01,"https://drive.google.com/file/d/1E5ioaLklZ15WKRhG0yRJ-t0bTm6L1Zku/view?usp=sharing"
+pid,label,location,object_type,order,audio_url,video_url
+obj1,Ismael Leon,Puerto Rico,photo,00,none,none
+obj2,Entrevista con Anabel,Loiza,audio,01,"https://drive.google.com/file/d/1E5ioaLklZ15WKRhG0yRJ-t0bTm6L1Zku/view?usp=sharing",none
+obj3,Entrevista con Evangelista Cruz,Cayey,video,02,none,"https://www.youtube.com/embed/TTc-wRSXoF4"

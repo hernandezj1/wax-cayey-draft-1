@@ -21,5 +21,15 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
     "permalink": "/pr-collection/obj2",
     "lunr_id": 1
+  },
+  {
+    "pid": "obj3",
+    "label": "Entrevista con Evangelista Cruz",
+    "location": "Cayey",
+    "object_type": "video",
+    "collection": "pr-collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/pr-collection/obj3",
+    "lunr_id": 2
   }
 ]

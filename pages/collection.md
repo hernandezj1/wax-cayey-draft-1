@@ -15,3 +15,6 @@ permalink: /collection/
 
 ### Audio-Only Interviews
 {% include collection_gallery.html facet_by='object_type' only='audio' collection='pr-collection' %}
+
+### Video Interviews
+{% include collection_gallery.html facet_by='object_type' only='video' collection='pr-collection' %}

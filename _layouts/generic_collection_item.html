@@ -21,6 +21,9 @@ layout: default
         {% include simple_image_viewer.html full_image=page.full %}
       {% endif %}
     
+    {% elsif page.object_type == "video" %}
+      {% include video_embed.html video=page.video_url %}
+    
     {% endif %}
     
     
