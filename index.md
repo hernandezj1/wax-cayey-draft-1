@@ -2,18 +2,22 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  image: img/180920134531-pr-storm-of-controversy-bridge.jpg
   y: 25%
-  clickable: yes
+  clickable: no
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+__Collective Care: Community Responses to Disasters in Puerto Rico (CCPR)__ is a research and education project that mobilizespublic history to support culturally-informed dialogues about emergency preparedness. The
+project, led by Dr. Rosa Ficek at the Institute of Interdisciplinary Research at the UPR Cayey,
+began recording oral histories in the aftermath of hurricane María using participatory and
+community-engaged research methods. The project expanded in 2020 to document the
+earthquakes of that same year as well as the pandemic. Today, the project has recorded over
+150 oral histories and collected over 600 photographs and graphic images highlighting the
+strategies that communities develop to respond to emergencies.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='pr-collection' %}
