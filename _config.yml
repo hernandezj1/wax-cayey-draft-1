@@ -19,8 +19,8 @@
 
 title:            'CCPR'
 description:      'Collective Care: Community Responses to Disasters in Puerto Rico'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://hernandezj1.github.io'
+baseurl:          '/wax-cayey-draft-1/'
 copyright:        'University of Puerto Rico - Cayey, 2026'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
