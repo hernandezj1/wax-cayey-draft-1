@@ -1,4 +1,4 @@
 pid,label,location,object_type,order,audio_url,video_url,layout,collection,thumbnail,manifest,full
-obj1,Ismael Leon,Puerto Rico,photo,00,none,none,qatar_item,pr-collection,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json,""
-obj2,Entrevista con Anabel,Loiza,audio,01,https://drive.google.com/file/d/1E5ioaLklZ15WKRhG0yRJ-t0bTm6L1Zku/view?usp=sharing,none,qatar_item,pr-collection,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json,""
+obj1,Ismael Leon,Puerto Rico,photo,00,none,none,qatar_item,pr-collection,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json,"/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
+obj2,Entrevista con Anabel,Loiza,audio,01,https://drive.google.com/file/d/1E5ioaLklZ15WKRhG0yRJ-t0bTm6L1Zku/view?usp=sharing,none,qatar_item,pr-collection,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json,"/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg"
 obj3,Entrevista con Evangelista Cruz,Cayey,video,02,none,https://www.youtube.com/embed/TTc-wRSXoF4,qatar_item,pr-collection,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",/img/derivatives/iiif/obj3/manifest.json,"/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
